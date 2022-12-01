@@ -1,5 +1,8 @@
 def function1():
-  1+1
+  """
+  changed this function in github
+  """ 
+  pass
 
 def function2():
   """
