@@ -15,3 +15,6 @@ def function3():
   function added in github
   """
   pass
+
+def function4():
+  pass
